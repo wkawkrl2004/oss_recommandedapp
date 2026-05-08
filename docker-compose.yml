@@ -1,0 +1,20 @@
+version: "3.8"
+
+services:
+  back:
+    build: ./back
+    container_name: ow-back
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+
+  front:
+    build: ./front
+    container_name: ow-front
+    ports:
+      - "8501:8501"
+    environment:
+      - BACKEND_URL=http://back:8000
+    depends_on:
+      - back
+    restart: unless-stopped

@@ -1,0 +1,452 @@
+[
+  {
+    "name": "라인하르트",
+    "role": "탱커",
+    "style": "공격적",
+    "range": "근거리",
+    "difficulty": "쉬움",
+    "mobility": "상관없음",
+    "positioning": "본대"
+  },
+  {
+    "name": "오리사",
+    "role": "탱커",
+    "style": "수비적",
+    "range": "중거리",
+    "difficulty": "보통",
+    "mobility": "상관없음",
+    "positioning": "본대"
+  },
+  {
+    "name": "D.Va",
+    "role": "탱커",
+    "style": "공격적",
+    "range": "근거리",
+    "difficulty": "보통",
+    "mobility": "중요함",
+    "positioning": "본대"
+  },
+  {
+    "name": "시그마",
+    "role": "탱커",
+    "style": "수비적",
+    "range": "중거리",
+    "difficulty": "어려움",
+    "mobility": "상관없음",
+    "positioning": "본대"
+  },
+  {
+    "name": "윈스턴",
+    "role": "탱커",
+    "style": "공격적",
+    "range": "근거리",
+    "difficulty": "쉬움",
+    "mobility": "중요함",
+    "positioning": "사이드"
+  },
+  {
+    "name": "레킹볼",
+    "role": "탱커",
+    "style": "공격적",
+    "range": "근거리",
+    "difficulty": "어려움",
+    "mobility": "중요함",
+    "positioning": "사이드"
+  },
+  {
+    "name": "둠피스트",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "로드호그",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "마우가",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "자리야",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "해저드",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "정커퀸",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "도미나",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "라마트라",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "겐지",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "메이",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "벤데타",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "소전",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "솜브라",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "안란",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "에코",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "위도우메이커",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "캐서디",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "트레이서",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "프레야",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "리퍼",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "바스티온",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "벤처",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "솔저: 76",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "시메트라",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "애쉬",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "엠레",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "정크랫",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "토르비욘",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "파라",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "한조",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "라이프위버",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "메르시",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "미즈키",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "브리기테",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "우양",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "제트팩 캣",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "주노",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "루시우",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "모이라",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "바티스트",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "아나",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "일리아리",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "젠야타",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  },
+  {
+    "name": "키리코",
+    "role": "",
+    "style": "",
+    "range": "",
+    "difficulty": "",
+    "mobility": "",
+    "positioning": ""
+  }
+]
